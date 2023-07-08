@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋, This isis Satya Sharma</h1>
+<h1 align="center">Hey 👋, This is Satya Sharma</h1>
 <h3 align="center">Computer Science and Engineering student with a passion for innovation and problem-solving.</h3>
 
 - 🌱 I’m currently learning **React**
