@@ -8,7 +8,7 @@
 - 💬 Ask me about **anything**
 
 - 📫 How to reach me **sattyasharma195@gmail.com**
-
+<img src ="https://cdn.lowgif.com/full/9cb12f51dffbaaa6-character-typing-by-vincent-mokuenko-dribbble.gif">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/https://dev.to/sattya19" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/sattya19" height="30" width="40" /></a>
