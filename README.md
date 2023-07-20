@@ -4,7 +4,7 @@
 
 <img height=200 src="https://i.gifer.com/39Cg.gif"/><img height=200 align="right" src="https://res.cloudinary.com/practicaldev/image/fetch/s--2bZIjPGC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/d4tvukbt5mra37cvwklk.gif"/>
 <br>
-<img height=150 src="https://miro.medium.com/max/1400/1*qdAW1TjCN57h1lbuuzvchg.gif"/><img height=150 src="https://cdn.dribbble.com/users/1434359/screenshots/3773763/flight-illustration2.gif" /><img height=150 src="https://2.bp.blogspot.com/-Z8CW8HpAVyk/WE0MX_dlOtI/AAAAAAAEf4M/H_W8VajNtDMXx-YP-9ll4DOtT-PZVE9rQCLcB/s1600/AW323194_00.gif" /><img height=150 src="https://th.bing.com/th/id/R.78e4f62c63997de01628913350b45071?rik=qpR1HJw7jHK0jA&riu=http%3a%2f%2fwww.animated-gifs.fr%2fcategory_leisure%2fgames-chess%2f04719351.gif&ehk=HCh0W3TmRVy6uRmwaOOPgJ02yoRCNsYv2MBwOaL1oZ8%3d&risl=&pid=ImgRaw&r=0" />
+<img height=200 src="https://miro.medium.com/max/1400/1*qdAW1TjCN57h1lbuuzvchg.gif"/><img height=200 src="https://cdn.dribbble.com/users/1434359/screenshots/3773763/flight-illustration2.gif" /><img height=200 src="https://2.bp.blogspot.com/-Z8CW8HpAVyk/WE0MX_dlOtI/AAAAAAAEf4M/H_W8VajNtDMXx-YP-9ll4DOtT-PZVE9rQCLcB/s1600/AW323194_00.gif" /><img height=200 src="https://th.bing.com/th/id/R.78e4f62c63997de01628913350b45071?rik=qpR1HJw7jHK0jA&riu=http%3a%2f%2fwww.animated-gifs.fr%2fcategory_leisure%2fgames-chess%2f04719351.gif&ehk=HCh0W3TmRVy6uRmwaOOPgJ02yoRCNsYv2MBwOaL1oZ8%3d&risl=&pid=ImgRaw&r=0" />
 
 - 💻 Development<br>
 - 🎬 Travelling<br>
