@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Satya Sharma
 
-#### I am Computer Science and Engineering student with a passion for innovation and development.
+#### I am Computer Science and Engineering student with a passion for innovation and web development.
 
 <img height=200 src="https://i.gifer.com/39Cg.gif"/><img height=250 src="https://res.cloudinary.com/practicaldev/image/fetch/s--2bZIjPGC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/d4tvukbt5mra37cvwklk.gif"/>
 <br>
