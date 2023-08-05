@@ -5,7 +5,7 @@
 <img height=200 src="https://i.gifer.com/39Cg.gif"/><img height=250 src="https://res.cloudinary.com/practicaldev/image/fetch/s--2bZIjPGC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/d4tvukbt5mra37cvwklk.gif"/>
 <br>
 ------------------
-- 💻 Development<br>
+- 💻 Web development<br>
 - 🎬 Travelling<br>
 - 📸 Photography<br>
 - ♘ Chess<br>
