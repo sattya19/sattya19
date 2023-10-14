@@ -1,6 +1,5 @@
-### Hi there 👋, my name is Satya Sharma
-
-#### I am Computer Science and Engineering student with a passion for innovation and web development.
+<h1 align="center">Hi there👋, I'm Satya Sharma</h1>
+<h3 align="center">I am Computer Science and Engineering student with a passion for innovation and web development.</h3>
 
 <img height=200 src="https://i.gifer.com/39Cg.gif"/><img height=250 src="https://res.cloudinary.com/practicaldev/image/fetch/s--2bZIjPGC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/d4tvukbt5mra37cvwklk.gif"/>
 <br>
@@ -22,19 +21,32 @@ Skills: <h3 align="left">Languages and Tools:</h3> <p align="left"> <a href="htt
 - 💬 Ask me about anything
 - 📫 How to reach me: sattyasharma195@gmaill.com
 - 😄 Pronouns: she/her
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/sattya19) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/https://dev.to/sattya19) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/satya-sharma-59bba6216/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/satyaa_sharma_/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/https://stackoverflow.com/users/16183949/satya-sharma)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=sattya19&show_icons=true&count_private=true)
-
-
-
-![GitHub streak stats](https://streak-stats.demolab.com/?user=sattya19)
-
 ------------------
+<div> <a href="https://www.linkedin.com/in/in/satya-sharma-59bba6216" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href="https://github.com/sattya19" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
+<a href="https://instagram.com/satyaa_sharma_" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href = "mailto:sattyasharma195@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</div><h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/in/satya-sharma-59bba6216" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="in/satya-sharma-59bba6216" height="30" width="40" /></a><a href="https://instagram.com/satyaa_sharma_" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/instagram.svg" alt="satyaa_sharma_" height="30" width="40" /></a><a href="https://dev.to/https://dev.to/sattya19" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/devto.svg" alt="https://dev.to/sattya19" height="30" width="40" /></a></p>
 
+<h3 align="left">Stars</h3>
+<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sattya19&hide_progress=true&theme=dark" alt=sattya19 />
 
+<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=sattya19&show_icons=true&locale=en&theme=highcontrast" alt="sattya19" /></p>
 
+<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=sattya19&theme=midnight-purple" alt="sattya19" /></p>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
+<div align="center">
+<a href="https://github.com/sattya19">
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=sattya19&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sattya19&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sattya19&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sattya19&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sattya19&theme=2077" height="180em" />
+</div>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h2 align="left">⚡Activity Graph:</h2>
+<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=sattya19&theme=react-dark"/>
                                                                                             
 
